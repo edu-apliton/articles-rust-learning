@@ -398,7 +398,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/) &#x
 * [From &str to Cow](http://blog.jwilm.io/from-str-to-cow/) - Joe Wilm &#x2610;
 * [Rust: str vs String](http://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html) - Ameya Lokare &#x2611;
 * [On dealing with owning and borrowing in public interfaces](https://phaazon.net/blog/on-owning-borrowing-pub-interface) - Dimitri Sabadie &#x2610;
-* [Why Rust strings seem hard](https://www.brandons.me/blog/why-rust-strings-seem-hard) - Brandon Smith &#x2610;
+* [Why Rust strings seem hard](https://www.brandons.me/blog/why-rust-strings-seem-hard) - Brandon Smith &#x2611;
 
 ### Syntax extensions
 
