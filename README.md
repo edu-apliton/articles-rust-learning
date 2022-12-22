@@ -221,10 +221,10 @@ The main documentation is always the best beginning, so if you haven't read it y
 
 ## Compilation
 
-* [rust-cross, Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross) - [Jorge Aparicio][] &#x2610;
-* [How to cross compile Rust from OS X to FreeBSD](https://github.com/yohanesu75/crossrust) - yohanesu75 &#x2610;
-* [Cross Compiling for Raspberry Pi](https://github.com/Ogeon/rust-on-raspberry-pi) - Ogeon &#x2610;
-* :star: [Taking Rust everywhere with rustup](http://blog.rust-lang.org/2016/05/13/rustup.html) - [Brian Anderson][] &#x2610;
+* [rust-cross, Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross) - [Jorge Aparicio][] &#x2610; STOPPED: Cross compiling with cargo
+* [How to cross compile Rust from OS X to FreeBSD](https://github.com/yohanesu75/crossrust) - yohanesu75 &#x2611;
+* [Cross Compiling for Raspberry Pi](https://github.com/Ogeon/rust-on-raspberry-pi) - Ogeon &#x2611;
+* :star: [Taking Rust everywhere with rustup](http://blog.rust-lang.org/2016/05/13/rustup.html) - [Brian Anderson][] &#x2610; STOPPED: The Rust community has been hard at work toward the goal of "push-button cross-compilation
 * [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) - Kang Seonghoon &#x2610;
 * [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) - [Jorge Aparicio][] &#x2610;
 * [Cross-compiling Rust for the Raspberry Pi on macOS](https://akappel.github.io/2017/11/07/rpi-crosstool.html) - Adrian Kappel &#x2610;
