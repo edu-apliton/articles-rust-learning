@@ -185,7 +185,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 
 ## Best Practices/Style Guides
 
-* :star: [Rust Design Patterns](https://github.com/nrc/patterns) - [Nick Cameron][] &#x2610;
+* :star: [Rust Design Patterns](https://github.com/nrc/patterns) - [Nick Cameron][] &#x2610; STOPPED: Collections are smart pointers
 * :star: [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][] &#x2610;
 * :star: [Rust API guidelines](https://github.com/rust-lang/rust-api-guidelines) - [Brian Anderson][] &#x2610;
 * [Design Patterns in Rust](https://github.com/fadeevab/design-patterns-rust) - [Alexander Fadeev][] &#x2610;
